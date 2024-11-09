@@ -3,7 +3,7 @@
 g++ main.cpp -O3 -o main
 ```
 
-### run code with g++
+### run code
 ```bash
 ./main
 ```
